@@ -1,0 +1,14 @@
+{
+  "spines": [
+    {
+      "name": "pixie",
+      "url": "./assets/spine-assets/pixie.json"
+    }
+  ],
+  "sprites": [
+    {
+      "name": "background",
+      "url": "./assets/sprites/background.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "enemies": [
+    {
+      "animation": "running",
+      "x": 950,
+      "y": 400
+    },
+    {
+      "animation": "jump",
+      "x": 800,
+      "y": 400
+    },
+    {
+      "animation": "running",
+      "x": 650,
+      "y": 400
+    },
+    {
+      "animation": "jump",
+      "x": 500,
+      "y": 400
+    },
+    {
+      "animation": "running",
+      "x": 350,
+      "y": 400
+    }
+  ]
+}
